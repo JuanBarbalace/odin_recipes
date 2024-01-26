@@ -1,0 +1,35 @@
+h1{font-weight: bold;
+text-align: center;}
+
+.pollo{
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+
+p{text-align: center;
+margin-top: 50px;
+margin-bottom: 30px;}
+
+h2{text-align: center;}
+
+ul{list-style: none;
+text-align: center;
+padding: 10px;}
+
+li{padding: 10px;
+}
+
+.step{ font-weight: bold;
+text-align: center;
+list-style: none;}
+
+ol{background-color: gainsboro;
+border-radius: 25px;
+margin-left: 30px;
+margin-right: 30px;}
+ul{background-color: gainsboro;
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+margin-bottom: 30px;}
